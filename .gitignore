@@ -33,6 +33,8 @@
 *.app
 
 .env
+.idea/
 
 /cmake-build-debug/
 /build/
+
